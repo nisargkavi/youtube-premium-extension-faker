@@ -14,7 +14,18 @@ A Chrome Extension to replaces the YouTube logo with the Premium logo, giving th
 7. The extension should now appear in the list of installed extensions. Ensure that it's enabled by toggling the switch if necessary.
 8. Finally, refresh the YouTube webpage (you may need to reload the page by pressing "Ctrl+R" or "Ctrl+Shift+R") and observe the changes to the YouTube logo.
 
+## Contributing
+Contributions are welcome! If you'd like to contribute to this project, you can:
+
+- Fork the repository
+- Create a new branch for your changes
+- Make your changes and commit them with descriptive commit messages
+- Push your changes to your fork
+- Submit a pull request to the main repository
+
+Thank you for contributing!
+
 
 ## Credits
 Created by <a href="https://nisargkavi.in">Nisarg Kavi</a>
-If you reuse this code for personal purposes, please remember to give credit to the original repository.
+If you reuse this code for personal/commercial purposes, please remember to give credit to the original repository.
