@@ -16,13 +16,13 @@
             return;
         } else if (details.reason == "install") {
             api.tabs.create({
-                url: "https://github.com/nisargkavi",
+                url: "https://nisargkavi.in/?ref=extension",
             });
         }
     });
 
     api.action.onClicked.addListener(function (tab) {
-        api.tabs.create({ url: "https://github.com/nisargkavi" });
+        api.tabs.create({ url: "https://nisargkavi.in/" });
     });
 
     function isChrome() {
